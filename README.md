@@ -1,8 +1,9 @@
 # GuardAgent-OS (Vision 2026)
 ### Institutional-Grade Enterprise Agentic AI Security Architecture
+![Enterprise Agentic AI Security Architecture Vision 2026](enterprise_architecture_2026.png)
 
-[![License](https://shields.io)](https://opensource.org)
-[![Python](https://shields.io)]()
+![License](https://shields.io)](https://opensource.org)
+![Python](https://shields.io)]()
 
 ## 📌 Executive Summary & Innovation Domain (Tech Nation Key Criterion 1)
 As modern enterprise workflows scale from basic conversational LLM chatbots to fully autonomous agent networks operating at machine speed, legacy Web Application Firewalls (WAFs) become completely obsolete. GuardAgent-OS presents a novel, low-latency, deterministic multi-tier middleware framework designed to intercept **Indirect Prompt Injections**, **Data Exfiltration vectors**, and **Broken Non-Human Identity IAM Scoping** inline before data mutations trigger at runtime.
